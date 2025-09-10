@@ -48,7 +48,7 @@
 ---
 
 ### 시스템 아키텍처
-   <img src="image/아키텍쳐.png" alt="아키텍처" width="100%"/>
+   <img src="image/아키텍쳐.jpg" alt="아키텍처" width="100%"/>
 
 ### ERD
    <a href="https://www.erdcloud.com/d/rXxZ64qo8b2Y2PD9w">
